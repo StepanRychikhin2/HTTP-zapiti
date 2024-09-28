@@ -22,17 +22,5 @@ function Items({ info }) {
 		</>
 	)
 }
-// this.Items()
 export default Items
 
-// {info.map((data) => {
-//     return data.hits.map((inf) => {
-//         console.log(inf)
-//         return (
-//             <li key={inf.id}>
-//                 <img src={inf.previewURL} alt={inf.tags} />
-//                 {/* <p>{inf.id}</p> */}
-//             </li>
-//         )
-//     })
-// })}
