@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/nepfgbnb/static/css/main.a6fd4b63.css",
-    "main.js": "/nepfgbnb/static/js/main.ffdd884f.js",
+    "main.css": "/nepfgbnb/static/css/main.e026e205.css",
+    "main.js": "/nepfgbnb/static/js/main.aa84eda8.js",
     "static/media/logo.svg": "/nepfgbnb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/nepfgbnb/index.html",
-    "main.a6fd4b63.css.map": "/nepfgbnb/static/css/main.a6fd4b63.css.map",
-    "main.ffdd884f.js.map": "/nepfgbnb/static/js/main.ffdd884f.js.map"
+    "main.e026e205.css.map": "/nepfgbnb/static/css/main.e026e205.css.map",
+    "main.aa84eda8.js.map": "/nepfgbnb/static/js/main.aa84eda8.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6fd4b63.css",
-    "static/js/main.ffdd884f.js"
+    "static/css/main.e026e205.css",
+    "static/js/main.aa84eda8.js"
   ]
 }
